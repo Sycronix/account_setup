@@ -1,0 +1,47 @@
+Dotfiles Backup Manifest
+========================
+Backup Date: Mon Nov 10 07:22:39 PM PST 2025
+Backup User: jday
+Backup Host: system76-pc
+
+Files backed up:
+  - .oh-my-zsh/custom/example.zsh
+  - .oh-my-zsh/custom/themes/example.zsh-theme
+  - .oh-my-zsh/custom/plugins/example/example.plugin.zsh
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/lxd-completion-zsh.plugin.zsh
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/index
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/refs/heads/master
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/refs/remotes/origin/HEAD
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/objects/pack/pack-cfd149c062be8b99813f7308f732e1af64adc999.pack
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/objects/pack/pack-cfd149c062be8b99813f7308f732e1af64adc999.idx
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/packed-refs
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/HEAD
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/logs/refs/heads/master
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/logs/refs/remotes/origin/HEAD
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/logs/HEAD
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/info/exclude
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/config
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/description
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/push-to-checkout.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/pre-applypatch.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/fsmonitor-watchman.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/pre-commit.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/applypatch-msg.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/pre-merge-commit.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/pre-rebase.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/post-update.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/pre-receive.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/commit-msg.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/update.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/pre-push.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/.git/hooks/prepare-commit-msg.sample
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/_lxd
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/README.md
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/_lxc
+  - .oh-my-zsh/custom/plugins/lxd-completion-zsh/LICENSE
+  - .zshrc
+  - .bashrc
+  - .gitconfig
+  - .ssh/config
+  - .tmux/plugins.conf
+  - .tmux.conf

@@ -1,0 +1,27 @@
+[core]
+	pager = "less -X"
+	editor = ~/bin/git-editor.sh
+	hooksPath = /home/jday/.git-hooks
+[commit]
+	template = /home/jday/.gittemplate
+[user]
+	name = Greg Priday
+	email = greg@siteorigin.com
+	signingkey = ~/.ssh/id_ed25519
+[color]
+	ui = auto
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = false
+[init]
+	defaultBranch = main
+[github]
+	user = gregpriday
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

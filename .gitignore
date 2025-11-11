@@ -1,0 +1,5 @@
+# Ignore embedded git repositories in oh-my-zsh custom plugins
+dotfiles/.oh-my-zsh/custom/plugins/*/
+
+# Keep example plugin
+!dotfiles/.oh-my-zsh/custom/plugins/example/
